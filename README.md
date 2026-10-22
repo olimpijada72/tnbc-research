@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![Model](https://img.shields.io/badge/model-DeepSpot--M-green)
 ![License](https://img.shields.io/badge/license-MIT-purple)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olimpijada72/tnbc-research/blob/main/notebooks/colab_quickstart.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uLjie8uztSPUCQbfdpZbUVRpAy5-0EfZ#scrollTo=il4XmJWtYIGG)
 
 Virtual spatial transcriptomics of pre-treatment biopsies in triple-negative breast
 cancer (TNBC), to look for predictors of response to neoadjuvant chemo-immunotherapy
