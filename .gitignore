@@ -1,0 +1,31 @@
+# Patient data and model outputs never go in git
+/data/
+/outputs/
+/results/
+*.svs
+*.ndpi
+*.scn
+*.mrxs
+*.tif
+*.tiff
+*.h5ad
+
+# Model weights (downloaded from Hugging Face)
+.hf_cache/
+*.safetensors
+*.ckpt
+
+# scripts/quick_test_mac.py downloads and outputs
+demo_data/
+quick_test_out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
